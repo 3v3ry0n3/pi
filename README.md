@@ -1,6 +1,4 @@
 # π
-Link: https://stuff.mit.edu/afs/sipb/contrib/pi/pi-billion.txt
-
 ```
 3.
 14159265358979323846264338327950288419716939937510
